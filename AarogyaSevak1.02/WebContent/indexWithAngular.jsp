@@ -282,10 +282,7 @@ color: white;
        <li><a href="#" style="color:black">Contact Us</a></li>
     </ul>
   </div>
-  
 </nav>
-  
- 
 <div class="nav-side-menu">
   
         <div class="menu-list">
