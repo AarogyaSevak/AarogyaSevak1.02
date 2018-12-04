@@ -345,6 +345,11 @@ color: white;
 <a href="#" class="fa fa-google"></a>&nbsp;
 <a href="#" class="fa fa-linkedin"></a>&nbsp;
 </th>
+
+
+
+
+
 </tr>
 </table>
 </footer>
